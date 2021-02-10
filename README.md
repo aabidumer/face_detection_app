@@ -1,0 +1,1 @@
+This repo holds code for FACE DETECTION APP
