@@ -1,4 +1,4 @@
-pythom -m pip install opencv-python
-pythom -m pip install matplotlib
-pythom -m pip install streamlit
-pythom -m pip install numpy
+python -m pip install opencv-python
+python -m pip install matplotlib
+python -m pip install streamlit
+python -m pip install numpy

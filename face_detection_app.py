@@ -38,5 +38,6 @@ def main():
 
 				st.success("Found {} faces".format(len(result_faces)))
 
+
 if __name__ == '__main__':
 		main()	
